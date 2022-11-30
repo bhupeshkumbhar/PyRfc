@@ -1,0 +1,10 @@
+
+**** Log file opened at 2022-11-30 07:23:33.361101 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: D:\Projects\PyRfc, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 78 Step 3), Operating_system: Windows NT 10.0
+ Hostname: DESKTOP-AUVR025, IP address: 192.168.0.107, IPv6 address: fe80::5245:9f2a:9d81:3b74
+
+2022-11-30 07:23:33.361341 [09508] >> Info entry
+	Did not find config file D:\Projects\PyRfc\sapnwrfc.ini.
